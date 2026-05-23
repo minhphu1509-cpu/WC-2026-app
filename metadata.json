@@ -1,0 +1,6 @@
+{
+  "name": "World Cup 2026 Pro",
+  "description": "Ứng dụng theo dõi lịch thi đấu, kết quả trực tiếp, phân tích dự đoán AI, trò chuyện cộng đồng và video Highlights World Cup 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
